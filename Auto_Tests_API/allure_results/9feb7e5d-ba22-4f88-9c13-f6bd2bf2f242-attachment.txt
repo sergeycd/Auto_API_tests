@@ -1,0 +1,2 @@
+{'promocode': None, 'loyalty_card': None, 'products': []}
+[]

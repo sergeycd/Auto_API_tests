@@ -1,0 +1,1 @@
+par_basket_info = {"city_id":"84"}
